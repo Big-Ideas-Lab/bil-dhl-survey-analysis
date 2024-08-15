@@ -19,7 +19,7 @@ Out of the 3,021 members of the online patient advisory group, 1,368 (45%) respo
 Findings from this study can be used to design both equitable and cost-effective digital health studies, leveraging personally-owned smartphones and wearables in representative populations, ultimately enabling the development of equitable digital health technologies.
 
 
-For more details, please check the preprint: 
-Shandhi, Md Mobashir Hasan and Singh, Karnika and Janson, Natasha and Ashar, Perisa and Singh, Geetika and Lu, Baiying and Hillygus, D. Sunshine and Maddocks, Jennifer M. and Dunn, Jessilyn, Assessment of Ownership of Smart Devices and the Acceptability of Digital Health Data Sharing. 
-Available at SSRN: https://ssrn.com/abstract=4546780 or http://dx.doi.org/10.2139/ssrn.4546780
+For more details, please check the published paper on npj Digital Medicine: 
+Shandhi, M.M.H., Singh, K., Janson, N., Ashar, P., Singh, G., Lu, B., Hillygus, D.S., Maddocks, J.M. and Dunn, J.P., 2024. Assessment of ownership of smart devices and the acceptability of digital health data sharing. NPJ Digital Medicine, 7(1), p.44. 
+DOI: https://doi.org/10.1038/s41746-024-01030-x
 
